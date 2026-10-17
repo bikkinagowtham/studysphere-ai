@@ -1,7 +1,7 @@
 # 🌍 StudySphere AI — Your Personal AI Study Companion
 
 > **“Learn Smarter. Understand Deeper. Go Further.”**  
-> Built for the **Multimodal AI Hackathon 2026, Track D: Personalized Tutoring & Adaptive Learning**.
+
 
 ---
 
@@ -151,5 +151,4 @@ A complete 5–7 minute video presentation script formatted for hackathon judges
 
 ---
 
-## ⚖️ License
-Built for the **Multimodal AI Hackathon 2026**. Apache 2.0 / MIT.
+
