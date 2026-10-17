@@ -1,5 +1,4 @@
-# StudySphere AI — Hackathon Demonstration Video Script
-**Multimodal AI Hackathon 2026 • Track D: Personalized Tutoring & Adaptive Learning**  
+# StudySphere AI — Hackathon Demonstration Video Script  
 **Target Duration:** 5 – 7 Minutes  
 **Presenter:** Full-Stack Lead / AI Engineer
 
